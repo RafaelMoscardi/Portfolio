@@ -1,0 +1,204 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e3]:
+      - link "RM" [ref=e4] [cursor=pointer]:
+        - /url: /
+      - link "Projetos" [ref=e6] [cursor=pointer]:
+        - /url: /projects
+      - link "Sobre" [ref=e7] [cursor=pointer]:
+        - /url: /#sobre
+      - link "Contato" [ref=e8] [cursor=pointer]:
+        - /url: /#contato
+  - main [ref=e11]:
+    - generic [ref=e13]:
+      - generic [ref=e15]: Disponível para colaborações
+      - heading "Rafael Moscardi" [level=1] [ref=e17]
+      - paragraph [ref=e18]: Estudante de Engenharia de Software · Desenvolvedor Full-Stack em formação
+      - paragraph [ref=e19]: Construo aplicações web com foco em produto, backend, frontend, banco de dados, automação e inteligência artificial aplicada.
+      - generic [ref=e20]:
+        - link "Ver projetos" [ref=e21] [cursor=pointer]:
+          - /url: /projects
+        - link "GitHub ↗" [ref=e22] [cursor=pointer]:
+          - /url: https://github.com/rafaelmoscardi07
+        - link "LinkedIn ↗" [ref=e23] [cursor=pointer]:
+          - /url: https://linkedin.com
+        - link "Currículo ↓" [ref=e24] [cursor=pointer]:
+          - /url: /resume.pdf
+      - generic [ref=e26]:
+        - generic [ref=e27]: scroll
+        - img [ref=e28]
+    - generic [ref=e32]:
+      - generic [ref=e34]:
+        - text: // sobre mim
+        - heading "Quem sou eu" [level=2] [ref=e35]
+        - paragraph [ref=e36]: Sou estudante de Engenharia de Software e desenvolvedor em formação, com foco em criar aplicações reais e bem estruturadas. Tenho interesse em desenvolvimento full-stack, APIs, dashboards, observabilidade, segurança e IA aplicada. Busco evoluir criando projetos que resolvem problemas reais e demonstram domínio técnico.
+      - generic [ref=e38]:
+        - generic [ref=e39]:
+          - paragraph [ref=e40]: Foco
+          - paragraph [ref=e41]: Full-Stack
+        - generic [ref=e42]:
+          - paragraph [ref=e43]: Área
+          - paragraph [ref=e44]: Eng. Software
+        - generic [ref=e45]:
+          - paragraph [ref=e46]: Projeto atual
+          - paragraph [ref=e47]: PulseOps
+        - generic [ref=e48]:
+          - paragraph [ref=e49]: Status
+          - paragraph [ref=e50]: Disponível
+    - generic [ref=e52]:
+      - generic [ref=e53]:
+        - generic [ref=e54]:
+          - text: // projetos
+          - heading "O que estou construindo" [level=2] [ref=e55]
+        - link "Ver todos →" [ref=e57] [cursor=pointer]:
+          - /url: /projects
+      - generic [ref=e58]:
+        - generic [ref=e59]:
+          - generic [ref=e60]: Destaque
+          - generic [ref=e61]:
+            - heading "PulseOps" [level=3] [ref=e62]
+            - paragraph [ref=e63]: Plataforma de Monitoramento de Aplicações
+          - paragraph [ref=e64]: Sistema full-stack para monitorar APIs e sites, medir tempo de resposta, registrar histórico de verificações, calcular uptime, controlar incidentes e enviar alertas via webhook.
+          - generic [ref=e65]:
+            - generic [ref=e66]: Next.js
+            - generic [ref=e67]: TypeScript
+            - generic [ref=e68]: PostgreSQL
+            - generic [ref=e69]: Prisma
+            - generic [ref=e70]: Recharts
+            - generic [ref=e71]: Webhooks
+            - generic [ref=e72]: Autenticação
+          - generic [ref=e73]:
+            - link "Ver estudo de caso →" [ref=e74] [cursor=pointer]:
+              - /url: /projects/pulseops
+            - link "GitHub ↗" [ref=e75] [cursor=pointer]:
+              - /url: https://github.com/rafaelmoscardi07
+        - generic [ref=e76]:
+          - generic [ref=e77]: Em breve
+          - generic [ref=e78]:
+            - heading "DevMatch AI" [level=3] [ref=e79]
+            - paragraph [ref=e80]: Análise de currículo e vagas com IA
+          - paragraph [ref=e81]: Plataforma que analisa currículos e vagas de emprego usando inteligência artificial para sugerir melhorias e encontrar o match ideal entre candidato e oportunidade.
+          - generic [ref=e82]:
+            - generic [ref=e83]: Next.js
+            - generic [ref=e84]: TypeScript
+            - generic [ref=e85]: OpenAI
+            - generic [ref=e86]: PostgreSQL
+        - generic [ref=e87]:
+          - generic [ref=e88]: Em breve
+          - generic [ref=e89]:
+            - heading "CondoHub" [level=3] [ref=e90]
+            - paragraph [ref=e91]: SaaS de gestão condominial
+          - paragraph [ref=e92]: "Plataforma SaaS completa para gestão de condomínios: controle financeiro, comunicados, reservas de espaços e gestão de moradores."
+          - generic [ref=e93]:
+            - generic [ref=e94]: Next.js
+            - generic [ref=e95]: TypeScript
+            - generic [ref=e96]: PostgreSQL
+            - generic [ref=e97]: Stripe
+    - generic [ref=e99]:
+      - generic [ref=e100]:
+        - text: // stack
+        - heading "Habilidades & Tecnologias" [level=2] [ref=e101]
+        - paragraph [ref=e102]: Tecnologias que uso e áreas que estou explorando no meu desenvolvimento como engenheiro de software.
+      - generic [ref=e104]:
+        - generic [ref=e105]:
+          - generic [ref=e106]:
+            - generic [ref=e107]: 🖥️
+            - heading "Frontend" [level=3] [ref=e108]
+          - generic [ref=e109]:
+            - generic [ref=e110]: HTML
+            - generic [ref=e111]: CSS
+            - generic [ref=e112]: JavaScript
+            - generic [ref=e113]: TypeScript
+            - generic [ref=e114]: React
+            - generic [ref=e115]: Next.js
+            - generic [ref=e116]: Tailwind CSS
+        - generic [ref=e117]:
+          - generic [ref=e118]:
+            - generic [ref=e119]: ⚙️
+            - heading "Backend" [level=3] [ref=e120]
+          - generic [ref=e121]:
+            - generic [ref=e122]: Node.js
+            - generic [ref=e123]: APIs REST
+            - generic [ref=e124]: PostgreSQL
+            - generic [ref=e125]: Prisma
+            - generic [ref=e126]: Autenticação
+            - generic [ref=e127]: Webhooks
+        - generic [ref=e128]:
+          - generic [ref=e129]:
+            - generic [ref=e130]: 🛠️
+            - heading "Ferramentas" [level=3] [ref=e131]
+          - generic [ref=e132]:
+            - generic [ref=e133]: Git
+            - generic [ref=e134]: GitHub
+            - generic [ref=e135]: Vercel
+            - generic [ref=e136]: Docker
+            - generic [ref=e137]: Postman
+            - generic [ref=e138]: Supabase
+            - generic [ref=e139]: Neon
+        - generic [ref=e140]:
+          - generic [ref=e141]:
+            - generic [ref=e142]: 🔭
+            - heading "Interesses" [level=3] [ref=e143]
+          - generic [ref=e144]:
+            - generic [ref=e145]: Observabilidade
+            - generic [ref=e146]: Segurança
+            - generic [ref=e147]: IA aplicada
+            - generic [ref=e148]: Arquitetura de Software
+    - generic [ref=e150]:
+      - generic [ref=e151]:
+        - text: // jornada
+        - heading "Linha do Tempo" [level=2] [ref=e152]
+        - paragraph [ref=e153]: A evolução dos meus estudos e projetos.
+      - generic [ref=e157]:
+        - generic [ref=e161]:
+          - generic [ref=e162]: "2025"
+          - heading "Início da jornada" [level=3] [ref=e163]
+          - paragraph [ref=e164]: Início dos estudos em Engenharia de Software com foco em desenvolvimento web e construção de projetos reais.
+        - generic [ref=e168]:
+          - generic [ref=e169]: "2026"
+          - heading "Estudos em Engenharia de Software" [level=3] [ref=e170]
+          - paragraph [ref=e171]: Aprofundamento em arquitetura de software, banco de dados, segurança, observabilidade e boas práticas de desenvolvimento.
+        - generic [ref=e175]:
+          - generic [ref=e176]: "2026"
+          - heading "Desenvolvimento do PulseOps" [level=3] [ref=e177]
+          - paragraph [ref=e178]: "Construção do PulseOps: plataforma full-stack de monitoramento de APIs e sites com dashboard, histórico de checks e alertas."
+        - generic [ref=e182]:
+          - generic [ref=e183]: Em breve
+          - heading "DevMatch AI" [level=3] [ref=e184]
+          - paragraph [ref=e185]: Desenvolvimento de plataforma que usa IA para análise de currículos e match com vagas de emprego.
+        - generic [ref=e189]:
+          - generic [ref=e190]: Futuro
+          - heading "CondoHub SaaS" [level=3] [ref=e191]
+          - paragraph [ref=e192]: "Projeto principal futuro: plataforma SaaS completa para gestão condominial."
+    - generic [ref=e194]:
+      - generic [ref=e195]:
+        - text: // contato
+        - heading "Vamos conversar?" [level=2] [ref=e196]
+        - paragraph [ref=e197]: Estou disponível para colaborações, projetos, estudos e oportunidades. Entra em contato!
+      - generic [ref=e199]:
+        - button "rafaelmoscardi07@gmail.com" [ref=e200]:
+          - img [ref=e201]
+          - generic [ref=e203]: rafaelmoscardi07@gmail.com
+        - link "Enviar e-mail" [ref=e204] [cursor=pointer]:
+          - /url: mailto:rafaelmoscardi07@gmail.com
+      - generic [ref=e205]:
+        - link "GitHub ↗" [ref=e206] [cursor=pointer]:
+          - /url: https://github.com/rafaelmoscardi07
+        - generic [ref=e207]: ·
+        - link "LinkedIn ↗" [ref=e208] [cursor=pointer]:
+          - /url: https://linkedin.com
+        - generic [ref=e209]: ·
+        - link "Currículo ↓" [ref=e210] [cursor=pointer]:
+          - /url: /resume.pdf
+  - contentinfo [ref=e211]:
+    - generic [ref=e212]:
+      - generic [ref=e213]: Rafael Moscardi — Desenvolvedor Full-Stack em formação
+      - generic [ref=e214]:
+        - link "GitHub" [ref=e215] [cursor=pointer]:
+          - /url: https://github.com/rafaelmoscardi07
+        - link "LinkedIn" [ref=e216] [cursor=pointer]:
+          - /url: https://linkedin.com
+        - link "Email" [ref=e217] [cursor=pointer]:
+          - /url: mailto:rafaelmoscardi07@gmail.com
+  - button "Open Next.js Dev Tools" [ref=e223] [cursor=pointer]:
+    - img [ref=e224]

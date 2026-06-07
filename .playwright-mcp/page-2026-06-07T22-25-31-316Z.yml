@@ -1,0 +1,172 @@
+- generic [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]: RM
+      - link "Home" [ref=e206] [cursor=pointer]:
+        - /url: /
+      - link "Skills" [ref=e207] [cursor=pointer]:
+        - /url: /#skills
+      - link "Projects" [ref=e208] [cursor=pointer]:
+        - /url: /#projetos
+      - button "Mudar para Português" [ref=e209]:
+        - img [ref=e210]
+      - button "Ativar modo claro" [active] [ref=e250]:
+        - img [ref=e251]
+  - main [ref=e17]:
+    - generic [ref=e20]:
+      - generic [ref=e22]: Available for collaborations
+      - heading "Rafael Moscardi." [level=1] [ref=e24]:
+        - generic [ref=e25]: Rafael
+        - generic [ref=e26]: Moscardi.
+      - paragraph [ref=e29]: Software Eng. Student · Full-Stack Dev
+      - paragraph [ref=e30]: I build web applications focused on product, backend, frontend, databases, automation and applied artificial intelligence.
+      - generic [ref=e31]:
+        - link "See projects →" [ref=e222] [cursor=pointer]:
+          - /url: /projects
+        - link "GitHub" [ref=e33] [cursor=pointer]:
+          - /url: https://github.com/RafaelMoscardi
+          - img [ref=e34]
+          - text: GitHub
+        - link "LinkedIn" [ref=e36] [cursor=pointer]:
+          - /url: https://www.linkedin.com/in/rafaelmoscardi/
+          - img [ref=e37]
+          - text: LinkedIn
+    - generic [ref=e40]:
+      - generic [ref=e41]: React
+      - generic [ref=e43]: Next.js
+      - generic [ref=e45]: TypeScript
+      - generic [ref=e47]: Node.js
+      - generic [ref=e49]: PostgreSQL
+      - generic [ref=e51]: Tailwind CSS
+      - generic [ref=e53]: Prisma
+      - generic [ref=e55]: Git
+      - generic [ref=e57]: Docker
+      - generic [ref=e59]: Supabase
+      - generic [ref=e61]: Vercel
+      - generic [ref=e63]: JavaScript
+      - generic [ref=e65]: REST APIs
+      - generic [ref=e67]: GitHub
+      - generic [ref=e69]: React
+      - generic [ref=e71]: Next.js
+      - generic [ref=e73]: TypeScript
+      - generic [ref=e75]: Node.js
+      - generic [ref=e77]: PostgreSQL
+      - generic [ref=e79]: Tailwind CSS
+      - generic [ref=e81]: Prisma
+      - generic [ref=e83]: Git
+      - generic [ref=e85]: Docker
+      - generic [ref=e87]: Supabase
+      - generic [ref=e89]: Vercel
+      - generic [ref=e91]: JavaScript
+      - generic [ref=e93]: REST APIs
+      - generic [ref=e95]: GitHub
+    - generic [ref=e98]:
+      - generic [ref=e99]:
+        - text: // stack
+        - heading "Skills & Technologies" [level=2] [ref=e223]
+        - paragraph [ref=e101]: Technologies I use and areas I'm exploring in my journey as a software engineer.
+      - generic [ref=e103]:
+        - generic [ref=e104]:
+          - generic [ref=e105]:
+            - generic [ref=e106]: 🖥️
+            - heading "Frontend" [level=3] [ref=e107]
+          - generic [ref=e108]:
+            - generic [ref=e109]: HTML
+            - generic [ref=e110]: CSS
+            - generic [ref=e111]: JavaScript
+            - generic [ref=e112]: TypeScript
+            - generic [ref=e113]: React
+            - generic [ref=e114]: Next.js
+            - generic [ref=e115]: Tailwind CSS
+        - generic [ref=e116]:
+          - generic [ref=e117]:
+            - generic [ref=e118]: ⚙️
+            - heading "Backend" [level=3] [ref=e119]
+          - generic [ref=e120]:
+            - generic [ref=e121]: Node.js
+            - generic [ref=e224]: REST APIs
+            - generic [ref=e123]: PostgreSQL
+            - generic [ref=e124]: Prisma
+            - generic [ref=e125]: Authentication
+            - generic [ref=e126]: Webhooks
+        - generic [ref=e225]:
+          - generic [ref=e226]:
+            - generic [ref=e227]: 🛠️
+            - heading "Tools" [level=3] [ref=e228]
+          - generic [ref=e229]:
+            - generic [ref=e230]: Git
+            - generic [ref=e231]: GitHub
+            - generic [ref=e232]: Vercel
+            - generic [ref=e233]: Docker
+            - generic [ref=e234]: Postman
+            - generic [ref=e235]: Supabase
+            - generic [ref=e236]: Neon
+        - generic [ref=e237]:
+          - generic [ref=e238]:
+            - generic [ref=e239]: 🔭
+            - heading "Interests" [level=3] [ref=e240]
+          - generic [ref=e241]:
+            - generic [ref=e242]: Observability
+            - generic [ref=e243]: Security
+            - generic [ref=e244]: Applied AI
+            - generic [ref=e245]: Software Architecture
+    - generic [ref=e149]:
+      - generic [ref=e150]:
+        - generic [ref=e151]:
+          - text: // projects
+          - heading "What I'm building" [level=2] [ref=e246]
+        - link "See all →" [ref=e247] [cursor=pointer]:
+          - /url: /projects
+      - generic [ref=e159]:
+        - generic [ref=e160]: Featured
+        - generic [ref=e161]:
+          - heading "PulseOps" [level=3] [ref=e162]
+          - paragraph [ref=e163]: Application Monitoring Platform
+        - paragraph [ref=e164]: Full-stack system to monitor APIs and websites, measure response time, record check history, calculate uptime, manage incidents and send webhook alerts.
+        - generic [ref=e165]:
+          - generic [ref=e166]: Next.js
+          - generic [ref=e167]: TypeScript
+          - generic [ref=e168]: PostgreSQL
+          - generic [ref=e169]: Prisma
+          - generic [ref=e170]: Recharts
+          - generic [ref=e171]: Webhooks
+          - generic [ref=e172]: Authentication
+        - generic [ref=e173]:
+          - link "View case study →" [ref=e248] [cursor=pointer]:
+            - /url: /projects/pulseops
+          - link "GitHub ↗" [ref=e175] [cursor=pointer]:
+            - /url: https://github.com/RafaelMoscardi
+      - generic [ref=e176]:
+        - generic [ref=e177]:
+          - generic [ref=e178]: Coming soon
+          - generic [ref=e179]:
+            - heading "DevMatch AI" [level=3] [ref=e180]
+            - paragraph [ref=e181]: Resume and job matching with AI
+          - paragraph [ref=e182]: Platform that analyzes resumes and job listings using AI to suggest improvements and find the ideal match between candidate and opportunity.
+          - generic [ref=e183]:
+            - generic [ref=e184]: Next.js
+            - generic [ref=e185]: TypeScript
+            - generic [ref=e186]: OpenAI
+            - generic [ref=e187]: PostgreSQL
+        - generic [ref=e188]:
+          - generic [ref=e189]: Coming soon
+          - generic [ref=e190]:
+            - heading "CondoHub" [level=3] [ref=e191]
+            - paragraph [ref=e192]: Condominium management SaaS
+          - paragraph [ref=e193]: "Complete SaaS platform for condominium management: financial control, announcements, space reservations and resident management."
+          - generic [ref=e194]:
+            - generic [ref=e195]: Next.js
+            - generic [ref=e196]: TypeScript
+            - generic [ref=e197]: PostgreSQL
+            - generic [ref=e198]: Stripe
+  - contentinfo [ref=e199]:
+    - generic [ref=e200]:
+      - generic [ref=e201]: Rafael Moscardi — Full-Stack Developer in training
+      - generic [ref=e202]:
+        - link "GitHub" [ref=e203] [cursor=pointer]:
+          - /url: https://github.com/RafaelMoscardi
+        - link "LinkedIn" [ref=e204] [cursor=pointer]:
+          - /url: https://www.linkedin.com/in/rafaelmoscardi/
+        - link "Email" [ref=e205] [cursor=pointer]:
+          - /url: mailto:rafaelmoscardi07@gmail.com
+  - alert [ref=e249]

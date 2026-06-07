@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --no-turbopack --yes)",
+      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --no-turbopack --yes --name portfolio)",
+      "Bash(npx create-next-app@latest temp-portfolio --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --no-turbopack --yes)",
+      "Bash(npm run *)",
+      "Bash(npm install *)",
+      "Bash(curl -s http://localhost:3000)",
+      "mcp__plugin_playwright_playwright__browser_navigate",
+      "mcp__plugin_playwright_playwright__browser_take_screenshot",
+      "mcp__plugin_playwright_playwright__browser_evaluate",
+      "mcp__plugin_playwright_playwright__browser_click",
+      "mcp__plugin_playwright_playwright__browser_resize",
+      "Bash(npx next *)",
+      "PowerShell($files = @\\(\"src/components/layout/Footer.tsx\",\"src/components/pages/PulseOpsContent.tsx\",\"src/components/sections/Contact.tsx\",\"src/components/sections/Hero.tsx\",\"src/data/projects.ts\"\\); foreach \\($f in $files\\) { \\(Get-Content \"c:\\\\Users\\\\Administrator\\\\Documents\\\\GitHub\\\\Portfolio\\\\$f\"\\) -replace 'https://github.com/rafaelmoscardi07','https://github.com/RafaelMoscardi' | Set-Content \"c:\\\\Users\\\\Administrator\\\\Documents\\\\GitHub\\\\Portfolio\\\\$f\" -Encoding utf8 })",
+      "Bash(npx tsc *)",
+      "Bash(node -e \"const p = require\\('./package.json'\\); console.log\\('next:', p.dependencies.next || p.devDependencies.next\\)\")",
+      "Bash(netstat -ano)",
+      "Bash(findstr \":3000\")",
+      "Bash(findstr LISTENING)",
+      "mcp__plugin_playwright_playwright__browser_snapshot"
+    ]
+  }
+}
