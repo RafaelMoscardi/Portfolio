@@ -1,0 +1,229 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e3]:
+      - link "< Rafael Moscardi />" [ref=e4] [cursor=pointer]:
+        - /url: /
+      - generic [ref=e5]:
+        - link "Início" [ref=e6] [cursor=pointer]:
+          - /url: /
+        - link "Habilidades" [ref=e7] [cursor=pointer]:
+          - /url: /#skills
+        - link "Projetos" [ref=e8] [cursor=pointer]:
+          - /url: /#projetos
+        - button "Switch to English" [ref=e10]:
+          - img [ref=e11]
+  - main [ref=e17]:
+    - generic [ref=e19]:
+      - generic [ref=e20]:
+        - generic [ref=e22]: Disponível para estágio em Engenharia de Software
+        - heading "Rafael Moscardi." [level=1] [ref=e24]:
+          - generic [ref=e25]: Rafael
+          - generic [ref=e26]: Moscardi.
+        - paragraph [ref=e29]: Estudante de Eng. Software · Desenvolvedor Full-Stack
+        - paragraph [ref=e30]: Construo aplicações web full-stack com foco em produto real, backend sólido e boas práticas de engenharia de software.
+        - generic [ref=e31]:
+          - link "Ver projetos →" [ref=e32] [cursor=pointer]:
+            - /url: /projects
+          - link "GitHub" [ref=e33] [cursor=pointer]:
+            - /url: https://github.com/RafaelMoscardi
+            - img [ref=e34]
+            - text: GitHub
+          - link "LinkedIn" [ref=e36] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/rafaelmoscardi/
+            - img [ref=e37]
+            - text: LinkedIn
+      - generic [ref=e39]:
+        - generic [ref=e40]:
+          - generic [ref=e42]: RM
+          - generic [ref=e43]:
+            - paragraph [ref=e44]: Rafael Moscardi
+            - paragraph [ref=e45]: Dev Full-Stack
+            - paragraph [ref=e46]: 📍 Brasil
+        - generic [ref=e47]:
+          - paragraph [ref=e48]: EM DESENVOLVIMENTO
+          - list [ref=e50]:
+            - listitem [ref=e51]:
+              - generic [ref=e52]: →
+              - text: PulseOps
+            - listitem [ref=e53]:
+              - generic [ref=e54]: →
+              - text: DevMatch AI
+            - listitem [ref=e55]:
+              - generic [ref=e56]: →
+              - text: CondoHub
+        - generic [ref=e57]:
+          - paragraph [ref=e58]: ⬡ STACK PRINCIPAL
+          - generic [ref=e59]:
+            - generic [ref=e60]: React
+            - generic [ref=e61]: Next.js
+            - generic [ref=e62]: TypeScript
+            - generic [ref=e63]: Node.js
+            - generic [ref=e64]: PostgreSQL
+            - generic [ref=e65]: Tailwind
+        - generic [ref=e66]:
+          - generic [ref=e71]: developer.config.ts
+          - generic [ref=e72]:
+            - generic [ref=e73]: // developer.config.ts
+            - generic [ref=e74]:
+              - text: const developer
+              - generic [ref=e75]: "= {"
+            - generic [ref=e76]: "name: \"Rafael Moscardi\","
+            - generic [ref=e77]: "role: \"Full Stack Dev\","
+            - generic [ref=e78]: "stack: [\"React\", \"Next.js\"],"
+            - generic [ref=e79]: "available: true"
+            - generic [ref=e80]: "}"
+    - generic [ref=e82]:
+      - generic [ref=e83]: React
+      - generic [ref=e85]: Next.js
+      - generic [ref=e87]: TypeScript
+      - generic [ref=e89]: Node.js
+      - generic [ref=e91]: PostgreSQL
+      - generic [ref=e93]: Tailwind CSS
+      - generic [ref=e95]: Prisma
+      - generic [ref=e97]: Git
+      - generic [ref=e99]: Docker
+      - generic [ref=e101]: Supabase
+      - generic [ref=e103]: Vercel
+      - generic [ref=e105]: JavaScript
+      - generic [ref=e107]: REST APIs
+      - generic [ref=e109]: GitHub
+      - generic [ref=e111]: React
+      - generic [ref=e113]: Next.js
+      - generic [ref=e115]: TypeScript
+      - generic [ref=e117]: Node.js
+      - generic [ref=e119]: PostgreSQL
+      - generic [ref=e121]: Tailwind CSS
+      - generic [ref=e123]: Prisma
+      - generic [ref=e125]: Git
+      - generic [ref=e127]: Docker
+      - generic [ref=e129]: Supabase
+      - generic [ref=e131]: Vercel
+      - generic [ref=e133]: JavaScript
+      - generic [ref=e135]: REST APIs
+      - generic [ref=e137]: GitHub
+    - generic [ref=e140]:
+      - generic [ref=e141]:
+        - text: // stack
+        - heading "Habilidades & Tecnologias" [level=2] [ref=e142]
+        - paragraph [ref=e143]: Tecnologias que uso e áreas que estou explorando no meu desenvolvimento como engenheiro de software.
+      - generic [ref=e145]:
+        - generic [ref=e146]:
+          - generic [ref=e147]:
+            - generic [ref=e148]: 🖥️
+            - heading "Frontend" [level=3] [ref=e149]
+          - generic [ref=e150]:
+            - generic [ref=e151]: HTML
+            - generic [ref=e152]: CSS
+            - generic [ref=e153]: JavaScript
+            - generic [ref=e154]: TypeScript
+            - generic [ref=e155]: React
+            - generic [ref=e156]: Next.js
+            - generic [ref=e157]: Tailwind CSS
+        - generic [ref=e158]:
+          - generic [ref=e159]:
+            - generic [ref=e160]: ⚙️
+            - heading "Backend" [level=3] [ref=e161]
+          - generic [ref=e162]:
+            - generic [ref=e163]: Node.js
+            - generic [ref=e164]: APIs REST
+            - generic [ref=e165]: PostgreSQL
+            - generic [ref=e166]: Prisma
+            - generic [ref=e167]: Authentication
+            - generic [ref=e168]: Webhooks
+        - generic [ref=e169]:
+          - generic [ref=e170]:
+            - generic [ref=e171]: 🛠️
+            - heading "Ferramentas" [level=3] [ref=e172]
+          - generic [ref=e173]:
+            - generic [ref=e174]: Git
+            - generic [ref=e175]: GitHub
+            - generic [ref=e176]: Vercel
+            - generic [ref=e177]: Docker
+            - generic [ref=e178]: Postman
+            - generic [ref=e179]: Supabase
+            - generic [ref=e180]: Neon
+        - generic [ref=e181]:
+          - generic [ref=e182]:
+            - generic [ref=e183]: 🔭
+            - heading "Interesses" [level=3] [ref=e184]
+          - generic [ref=e185]:
+            - generic [ref=e186]: Observabilidade
+            - generic [ref=e187]: Segurança
+            - generic [ref=e188]: IA aplicada
+            - generic [ref=e189]: Arquitetura de Software
+    - generic [ref=e191]:
+      - generic [ref=e192]:
+        - generic [ref=e193]:
+          - text: // projetos
+          - heading "O que estou construindo" [level=2] [ref=e194]
+        - link "Ver todos →" [ref=e196] [cursor=pointer]:
+          - /url: /projects
+      - generic [ref=e201]:
+        - generic [ref=e202]: Destaque
+        - generic [ref=e203]:
+          - heading "PulseOps" [level=3] [ref=e204]
+          - paragraph [ref=e205]: Plataforma de Monitoramento de Aplicações
+        - paragraph [ref=e206]: Sistema full-stack para monitorar APIs e sites, medir tempo de resposta, registrar histórico de verificações, calcular uptime, controlar incidentes e enviar alertas via webhook.
+        - generic [ref=e207]:
+          - generic [ref=e208]: Next.js
+          - generic [ref=e209]: TypeScript
+          - generic [ref=e210]: PostgreSQL
+          - generic [ref=e211]: Prisma
+          - generic [ref=e212]: Recharts
+          - generic [ref=e213]: Webhooks
+          - generic [ref=e214]: Authentication
+        - generic [ref=e215]:
+          - link "Ver estudo de caso →" [ref=e216] [cursor=pointer]:
+            - /url: /projects/pulseops
+          - link "GitHub ↗" [ref=e217] [cursor=pointer]:
+            - /url: https://github.com/RafaelMoscardi
+      - generic [ref=e218]:
+        - generic [ref=e219]:
+          - generic [ref=e220]: Em breve
+          - generic [ref=e221]:
+            - heading "DevMatch AI" [level=3] [ref=e222]
+            - paragraph [ref=e223]: Análise de currículo e vagas com IA
+          - paragraph [ref=e224]: Plataforma que analisa currículos e vagas de emprego usando IA para sugerir melhorias e encontrar o match ideal entre candidato e oportunidade.
+          - generic [ref=e225]:
+            - generic [ref=e226]: Next.js
+            - generic [ref=e227]: TypeScript
+            - generic [ref=e228]: OpenAI
+            - generic [ref=e229]: PostgreSQL
+        - generic [ref=e230]:
+          - generic [ref=e231]: Em breve
+          - generic [ref=e232]:
+            - heading "CondoHub" [level=3] [ref=e233]
+            - paragraph [ref=e234]: SaaS de gestão condominial
+          - paragraph [ref=e235]: "Plataforma SaaS completa para gestão de condomínios: controle financeiro, comunicados, reservas de espaços e gestão de moradores."
+          - generic [ref=e236]:
+            - generic [ref=e237]: Next.js
+            - generic [ref=e238]: TypeScript
+            - generic [ref=e239]: PostgreSQL
+            - generic [ref=e240]: Stripe
+    - generic [ref=e242]:
+      - generic [ref=e243]:
+        - text: // contato
+        - heading "Vamos conversar?" [level=2] [ref=e244]
+        - paragraph [ref=e245]: Estou disponível para colaborações, projetos, estudos e oportunidades. Entra em contato!
+      - generic [ref=e247]:
+        - button "rafaelmoscardi07@gmail.com" [ref=e248]:
+          - img [ref=e249]
+          - generic [ref=e251]: rafaelmoscardi07@gmail.com
+        - link "Enviar e-mail" [ref=e252] [cursor=pointer]:
+          - /url: mailto:rafaelmoscardi07@gmail.com
+      - generic [ref=e253]:
+        - link "GitHub ↗" [ref=e254] [cursor=pointer]:
+          - /url: https://github.com/RafaelMoscardi
+        - generic [ref=e255]: ·
+        - link "LinkedIn ↗" [ref=e256] [cursor=pointer]:
+          - /url: https://www.linkedin.com/in/rafaelmoscardi/
+  - contentinfo [ref=e257]:
+    - generic [ref=e258]:
+      - generic [ref=e259]: Rafael Moscardi — Desenvolvedor Full-Stack em formação
+      - generic [ref=e260]:
+        - link "GitHub" [ref=e261] [cursor=pointer]:
+          - /url: https://github.com/RafaelMoscardi
+        - link "LinkedIn" [ref=e262] [cursor=pointer]:
+          - /url: https://www.linkedin.com/in/rafaelmoscardi/
+        - link "Email" [ref=e263] [cursor=pointer]:
+          - /url: mailto:rafaelmoscardi07@gmail.com

@@ -24,7 +24,7 @@ export default function ProjectCard({ project }: ProjectCardProps) {
     <div
       className={`relative group rounded-xl border p-5 sm:p-6 flex flex-col gap-4 transition-all duration-300 ${
         isComingSoon
-          ? "bg-slate-50 dark:bg-slate-900/50 border-slate-200 dark:border-slate-800 opacity-60"
+          ? "bg-slate-50 dark:bg-slate-900/50 border-slate-200 dark:border-slate-800 opacity-75"
           : "bg-white dark:bg-slate-900 border-slate-200 dark:border-slate-800 hover:border-cyan-400/60 dark:hover:border-cyan-400/40 hover:shadow-lg hover:shadow-cyan-500/10"
       }`}
     >

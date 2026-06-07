@@ -10,11 +10,11 @@ export const translations = {
       contact: "Contato",
     },
     hero: {
-      badge: "Disponível para colaborações",
-      roleLabel: "Estudante de Eng. Software · Dev Full-Stack",
+      badge: "Disponível para estágio em Engenharia de Software",
+      roleLabel: "Estudante de Eng. Software · Desenvolvedor Full-Stack",
       subtitle: "Estudante de Engenharia de Software · Desenvolvedor Full-Stack em formação",
       description:
-        "Construo aplicações web com foco em produto, backend, frontend, banco de dados, automação e inteligência artificial aplicada.",
+        "Construo aplicações web full-stack com foco em produto real, backend sólido e boas práticas de engenharia de software.",
       viewProjects: "Ver projetos",
       resume: "Currículo ↓",
       scroll: "scroll",
@@ -202,11 +202,11 @@ export const translations = {
       contact: "Contact",
     },
     hero: {
-      badge: "Available for collaborations",
-      roleLabel: "Software Eng. Student · Full-Stack Dev",
+      badge: "Open to Software Engineering internships",
+      roleLabel: "Software Eng. Student · Full-Stack Developer",
       subtitle: "Software Engineering Student · Full-Stack Developer in training",
       description:
-        "I build web applications focused on product, backend, frontend, databases, automation and applied artificial intelligence.",
+        "I build full-stack web applications focused on real product, solid backend and software engineering best practices.",
       viewProjects: "See projects",
       resume: "Resume ↓",
       scroll: "scroll",

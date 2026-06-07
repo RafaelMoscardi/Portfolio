@@ -148,7 +148,7 @@ export default function Hero() {
               <span className="ml-2 text-xs font-mono text-slate-400 dark:text-slate-500">developer.config.ts</span>
             </div>
             <div className="p-3 font-mono text-xs leading-relaxed select-none">
-              <div className="text-slate-400 dark:text-slate-600">// developer.config.ts</div>
+              <div className="text-slate-400 dark:text-slate-600">{'// developer.config.ts'}</div>
               <div className="mt-1">
                 <span className="text-blue-600 dark:text-blue-400">const </span>
                 <span className="text-slate-700 dark:text-slate-300">developer </span>

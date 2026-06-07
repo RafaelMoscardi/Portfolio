@@ -19,7 +19,7 @@ export default function Contact() {
   };
 
   return (
-    <section id="contato" className="py-16 sm:py-24 px-4 sm:px-6 pb-28 sm:pb-32">
+    <section id="contato" className="py-16 sm:py-24 px-4 sm:px-6 bg-white dark:bg-transparent">
       <div className="max-w-3xl mx-auto text-center">
         <SectionHeading
           label={t.label}
@@ -64,14 +64,6 @@ export default function Contact() {
             className="text-slate-500 hover:text-slate-700 dark:hover:text-slate-300 transition-colors text-sm"
           >
             LinkedIn ↗
-          </a>
-          <span className="text-slate-300 dark:text-slate-700">·</span>
-          <a
-            href="/resume.pdf"
-            download
-            className="text-slate-500 hover:text-slate-700 dark:hover:text-slate-300 transition-colors text-sm"
-          >
-            {t.resume}
           </a>
         </div>
       </div>

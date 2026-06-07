@@ -9,7 +9,7 @@ export default function Footer() {
 
   return (
     <footer className="border-t border-slate-200 dark:border-slate-800 mt-0">
-      <div className="max-w-6xl mx-auto px-4 sm:px-6 py-8 pb-24 sm:pb-28 flex flex-col sm:flex-row items-center justify-between gap-3 sm:gap-4">
+      <div className="max-w-6xl mx-auto px-4 sm:px-6 py-8 flex flex-col sm:flex-row items-center justify-between gap-3 sm:gap-4">
         <div className="text-sm text-slate-500 text-center sm:text-left">
           <span className="font-mono text-cyan-600 dark:text-cyan-400">Rafael Moscardi</span>{" "}
           — {t.role}
