@@ -23,8 +23,8 @@ export const projects: Project[] = [
     status: "active",
     techs: ["Next.js", "TypeScript", "PostgreSQL", "Prisma", "Recharts", "Webhooks", "Authentication"],
     caseStudyUrl: "/projects/pulseops",
-    githubUrl: "https://github.com/RafaelMoscardi",
-    liveUrl: "#",
+    githubUrl: "https://github.com/RafaelMoscardi/PulseOps",
+    liveUrl: "https://pulse-ops-beta.vercel.app/",
     featured: true,
   },
   {

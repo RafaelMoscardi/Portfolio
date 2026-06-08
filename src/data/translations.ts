@@ -109,13 +109,13 @@ export const translations = {
       home: "início",
       projectsLink: "projetos",
       caseStudyBadge: "Estudo de Caso",
-      inDevBadge: "Em desenvolvimento",
+      inDevBadge: "Lançado",
       tagline: "Plataforma de Monitoramento de Aplicações",
       description:
         "Sistema full-stack para monitorar APIs e sites, medir tempo de resposta, registrar histórico de verificações, calcular uptime, controlar incidentes e enviar alertas via webhook.",
       stackLabel: "Stack utilizada",
       viewCode: "Ver código no GitHub ↗",
-      demoSoon: "Demo em breve",
+      viewDemo: "Ver demo ao vivo ↗",
       problem: {
         num: "01.",
         title: "Problema resolvido",
@@ -301,13 +301,13 @@ export const translations = {
       home: "home",
       projectsLink: "projects",
       caseStudyBadge: "Case Study",
-      inDevBadge: "In development",
+      inDevBadge: "Launched",
       tagline: "Application Monitoring Platform",
       description:
         "Full-stack system to monitor APIs and websites, measure response time, record check history, calculate uptime, manage incidents and send webhook alerts.",
       stackLabel: "Tech stack",
       viewCode: "View code on GitHub ↗",
-      demoSoon: "Demo coming soon",
+      viewDemo: "View live demo ↗",
       problem: {
         num: "01.",
         title: "Problem solved",

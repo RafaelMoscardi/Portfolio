@@ -65,16 +65,21 @@ export default function PulseOpsContent() {
         {/* Action buttons */}
         <div className="flex flex-wrap gap-3 mb-16">
           <a
-            href="https://github.com/RafaelMoscardi"
+            href="https://github.com/RafaelMoscardi/PulseOps"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-5 py-2.5 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 font-medium text-sm rounded-lg hover:border-slate-400 dark:hover:border-slate-600 hover:text-slate-900 dark:hover:text-slate-100 transition-all"
           >
             {t.viewCode}
           </a>
-          <span className="inline-flex items-center gap-2 px-5 py-2.5 bg-slate-50 dark:bg-slate-900/50 border border-slate-200/50 dark:border-slate-800/50 text-slate-400 dark:text-slate-600 font-medium text-sm rounded-lg cursor-not-allowed select-none">
-            {t.demoSoon}
-          </span>
+          <a
+            href="https://pulse-ops-beta.vercel.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-2 px-5 py-2.5 bg-cyan-500 text-white font-semibold text-sm rounded-lg hover:bg-cyan-400 transition-colors"
+          >
+            {t.viewDemo}
+          </a>
         </div>
 
         <div className="h-px bg-slate-200 dark:bg-slate-800 mb-16" />
@@ -221,12 +226,20 @@ export default function PulseOpsContent() {
         {/* Footer actions */}
         <div className="flex flex-wrap items-center gap-4 pt-8 border-t border-slate-200 dark:border-slate-800">
           <a
-            href="https://github.com/RafaelMoscardi"
+            href="https://github.com/RafaelMoscardi/PulseOps"
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center gap-2 px-5 py-2.5 bg-cyan-500 dark:bg-cyan-400 text-white dark:text-slate-950 font-semibold text-sm rounded-lg hover:bg-cyan-600 dark:hover:bg-cyan-300 transition-colors"
+            className="inline-flex items-center gap-2 px-5 py-2.5 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 font-semibold text-sm rounded-lg hover:border-slate-400 dark:hover:border-slate-600 transition-colors"
           >
             {t.viewCode}
+          </a>
+          <a
+            href="https://pulse-ops-beta.vercel.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-2 px-5 py-2.5 bg-cyan-500 text-white font-semibold text-sm rounded-lg hover:bg-cyan-400 transition-colors"
+          >
+            {t.viewDemo}
           </a>
           <Link
             href="/projects"
