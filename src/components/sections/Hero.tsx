@@ -110,8 +110,16 @@ export default function Hero() {
               {t.currentlyBuilding}
             </p>
             <ul className="space-y-1.5">
-              <li className="text-slate-700 dark:text-slate-300 text-xs font-mono flex items-center gap-2">
-                <span className="text-cyan-500 dark:text-cyan-400">→</span> PulseOps
+              <li className="text-xs font-mono flex items-center gap-2">
+                <span className="text-green-500 dark:text-green-400">→</span>
+                <a
+                  href="https://pulse-ops-beta.vercel.app/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-green-600 dark:text-green-400 hover:text-green-500 dark:hover:text-green-300 transition-colors"
+                >
+                  PulseOps <span className="text-green-500/70 dark:text-green-500/60">(live)</span>
+                </a>
               </li>
               <li className="text-slate-700 dark:text-slate-300 text-xs font-mono flex items-center gap-2">
                 <span className="text-cyan-500 dark:text-cyan-400">→</span> DevMatch AI
