@@ -150,8 +150,7 @@ export const translations = {
       interface: {
         num: "04.",
         title: "Interface",
-        screenshots: ["Dashboard principal", "Lista de serviços", "Histórico de checks", "Painel de incidentes"],
-        soon: "screenshot em breve",
+        screenshots: ["Dashboard principal", "Lista de serviços", "Painel de incidentes", "Notificações por webhook"],
       },
       challenges: {
         num: "05.",
@@ -342,8 +341,7 @@ export const translations = {
       interface: {
         num: "04.",
         title: "Interface",
-        screenshots: ["Main dashboard", "Services list", "Check history", "Incidents panel"],
-        soon: "screenshot coming soon",
+        screenshots: ["Main dashboard", "Services list", "Incidents panel", "Webhook notifications"],
       },
       challenges: {
         num: "05.",
