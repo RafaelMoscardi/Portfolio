@@ -124,8 +124,16 @@ export default function Hero() {
               <li className="text-slate-700 dark:text-slate-300 text-xs font-mono flex items-center gap-2">
                 <span className="text-cyan-500 dark:text-cyan-400">→</span> DevMatch AI
               </li>
-              <li className="text-slate-700 dark:text-slate-300 text-xs font-mono flex items-center gap-2">
-                <span className="text-cyan-500 dark:text-cyan-400">→</span> CondoHub
+              <li className="text-xs font-mono flex items-center gap-2">
+                <span className="text-green-500 dark:text-green-400">→</span>
+                <a
+                  href="https://condo-plum.vercel.app/login"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-green-600 dark:text-green-400 hover:text-green-500 dark:hover:text-green-300 transition-colors"
+                >
+                  CondoHub <span className="text-green-500/70 dark:text-green-500/60">(live)</span>
+                </a>
               </li>
             </ul>
           </div>

@@ -42,7 +42,9 @@ export const projects: Project[] = [
     tagline: "SaaS de gestão condominial",
     description:
       "Plataforma SaaS completa para gestão de condomínios: controle financeiro, comunicados, reservas de espaços e gestão de moradores.",
-    status: "coming-soon",
+    status: "active",
     techs: ["Next.js", "TypeScript", "PostgreSQL", "Stripe"],
+    githubUrl: "https://github.com/RafaelMoscardi/Condo",
+    liveUrl: "https://condo-plum.vercel.app/login",
   },
 ];
