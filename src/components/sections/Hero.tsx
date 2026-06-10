@@ -121,9 +121,6 @@ export default function Hero() {
                   PulseOps <span className="text-green-500/70 dark:text-green-500/60">(live)</span>
                 </a>
               </li>
-              <li className="text-slate-700 dark:text-slate-300 text-xs font-mono flex items-center gap-2">
-                <span className="text-cyan-500 dark:text-cyan-400">→</span> DevMatch AI
-              </li>
               <li className="text-xs font-mono flex items-center gap-2">
                 <span className="text-green-500 dark:text-green-400">→</span>
                 <a
@@ -134,6 +131,9 @@ export default function Hero() {
                 >
                   CondoHub <span className="text-green-500/70 dark:text-green-500/60">(live)</span>
                 </a>
+              </li>
+              <li className="text-slate-700 dark:text-slate-300 text-xs font-mono flex items-center gap-2">
+                <span className="text-cyan-500 dark:text-cyan-400">→</span> DevMatch AI
               </li>
             </ul>
           </div>
